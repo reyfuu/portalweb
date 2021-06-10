@@ -78,7 +78,7 @@ include("inc/fungsi.php");
 
                 <div class="teksjalannav pt10 pb10 mt5">
 
-                    <marquee direction="left" behavior="scroll">Ayo Baca Berita Jangan Lupa Sambil Ngopi :v
+                    <marquee direction="left" behavior="scroll">Ayo Baca Berita Jangan Lupa Sambil Ngopi
                     </marquee>
                 </div>
 

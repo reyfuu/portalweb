@@ -4,7 +4,7 @@ define('DBUSER', 'root');
 define('DBPASS', '');
 define('DBNAME', 'portalberita');
 
-define('URL_SITUS', 'http://localhost/portalberita/');
+define('URL_SITUS', 'http://localhost/portalweb-main/');
 // define('PATH_LOGO', 'image');
 define('PATH_GAMBAR', 'photo');
 // define('FILE_LOGO', 'logo2.png');
